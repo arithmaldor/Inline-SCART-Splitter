@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "Inline SCART Splitter")(type KiCad)(uri "${KIPRJMOD}/Inline SCART Splitter.pretty")(options "")(descr ""))
+)
